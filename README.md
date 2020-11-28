@@ -8,7 +8,7 @@ npm install
 ```
 
 ## HOME PAGE
-
+![HOME-PAGE](https://user-images.githubusercontent.com/43810008/100521781-fc77b300-31a5-11eb-84f7-b0fb3f7034c6.PNG)
 
 ## RECIPE GENERATOR
 ![recipe](https://user-images.githubusercontent.com/43810008/72141684-9880ac00-3393-11ea-93dc-150ba993d515.JPG)
