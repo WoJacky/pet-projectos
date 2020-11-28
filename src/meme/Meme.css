@@ -1,0 +1,28 @@
+.Memes{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+input,button{
+    display: flex;
+    justify-content: space-between;
+    margin:20px;
+    padding: 10px 20px;
+    border: 2px solid #707070;
+    background-color: #fff;
+    transition: 0.3s;
+}
+
+input:focus{
+    border:2px solid rgb(14, 12, 12);
+    text-decoration: none;
+    outline: none;
+  }
+  button:hover{
+      cursor: pointer;
+      background:  rgb(14, 12, 12);
+      color:white;
+  }

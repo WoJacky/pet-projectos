@@ -1,0 +1,18 @@
+
+
+
+.single-image-mem{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 250px;
+    height: 200px;
+    box-shadow: 0px 5px 20px #717171;
+    border-radius: 10%;    
+    margin: 20px;
+    transition: 0.75s;
+}
+.single-image-mem:hover{
+    cursor: pointer;
+    transform : scale(1.2);
+}
