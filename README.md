@@ -5,6 +5,7 @@
 git clone 
 cd pet-projectos
 npm install
+npm start
 ```
 
 ## HOME PAGE
