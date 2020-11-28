@@ -1,5 +1,13 @@
+
+## Usage
+
+```bash
+git clone 
+cd pet-projectos
+npm install
+```
+
 ## HOME PAGE
-![main](https://user-images.githubusercontent.com/43810008/72141621-7f77fb00-3393-11ea-82a2-5114dffa2b3b.JPG)
 
 
 ## RECIPE GENERATOR
@@ -16,3 +24,5 @@
 
 ![final form](https://user-images.githubusercontent.com/43810008/72141796-cf56c200-3393-11ea-9557-eae9e9a8dcab.JPG)
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
